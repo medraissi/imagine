@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'alfabet bold';
+    font-style: normal;
+    font-weight: 700;
+    font-display: block;
+    src: url("../webfonts/alfabet-bold.otf") format("otf"), url("../webfonts/alfabet-bold.otf") format("truetype"); 
+}
+@font-face {
+    font-family: 'alfabet black';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../webfonts/alfabet-black.otf") format("otf"), url("../webfonts/alfabet-black.otf") format("truetype"); 
+}
+@font-face {
+    font-family: 'alfabet regular';
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+    src: url("../webfonts/alfabet-regular.otf") format("otf"), url("../webfonts/alfabet-regular.otf") format("truetype"); 
+}
+@font-face {
+    font-family: 'alfabet semiBold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../webfonts/alfabet-semibold.otf") format("otf"), url("../webfonts/alfabet-semibold.otf") format("truetype"); 
+}
+@font-face {
+    font-family: 'alfabet medium';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../webfonts/alfabet-medium.otf") format("otf"), url("../webfonts/alfabet-medium.otf") format("truetype"); 
+}
+@font-face {
+    font-family: 'alfabet ligth';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../webfonts/alfabet-ligth.otf") format("otf"), url("../webfonts/alfabet-ligth.otf") format("truetype"); 
+}
+.font-alpha-black{
+    font-family: 'alfabet black';
+}
+.font-alpha-bold{
+    font-family: 'alfabet bold';
+}
+.font-alpha-semiBold{
+    font-family: 'alfabet semiBold';
+}
+.font-alpha-medium{
+    font-family: 'alfabet medium';
+}
+.font-alpha-regular{
+    font-family: 'alfabet regular';
+}
+
+.font-alpha-ligth{
+    font-family: 'alfabet ligth';
+}

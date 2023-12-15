@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="469" height="437" viewBox="0 0 469 437">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d2761" stop-opacity="0.796"/>
+      <stop offset="0.32" stop-color="#a6d0ff" stop-opacity="0"/>
+      <stop offset="0.498" stop-color="#bddcff" stop-opacity="0"/>
+      <stop offset="0.724" stop-color="#dbecff" stop-opacity="0"/>
+      <stop offset="0.847" stop-color="#79838d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1d2761" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <rect id="background-video" width="469" height="437" rx="40" fill="url(#linear-gradient)"/>
+</svg>
